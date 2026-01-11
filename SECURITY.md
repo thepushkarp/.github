@@ -9,7 +9,7 @@ rather than opening a public issue.
 - Email: thepushkarp [AT] gmail [DOT] com
 - Twitter/X: [@thepushkarp](https://x.com/thepushkarp)
 
-I'll try to respond within 7 days. Please include:
+I'll try to acknowledge reports within 48 hours and respond fully within 7 days. Please include:
 - Description of the vulnerability
 - Steps to reproduce (if applicable)
 - Affected repository/version
