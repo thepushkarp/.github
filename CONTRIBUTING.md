@@ -5,7 +5,7 @@ Thanks for your interest in contributing!
 ## Quick Start
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-idea`)
+2. Create a feature branch (`git checkout -b type/short-description`)
 3. Make your changes
 4. Run any existing tests
 5. Submit a pull request
