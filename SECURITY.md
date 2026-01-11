@@ -8,6 +8,7 @@ rather than opening a public issue.
 **Contact:**
 - Email: thepushkarp [AT] gmail [DOT] com
 - Twitter/X: [@thepushkarp](https://x.com/thepushkarp)
+- Discord: @thepushkarp
 
 I'll try to acknowledge reports within 48 hours and respond fully within 7 days. Please include:
 - Description of the vulnerability
